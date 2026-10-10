@@ -45,19 +45,17 @@ How to Run
 Install the libraries:
 
 
-"py -m pip install requests beautifulsoup4 pandas"
+py -m pip install requests beautifulsoup4 pandas
 
 
 Run the program:
 
 
-"py main.py"
+py main.py
 
 
 
 Data Source
-
-
 
 https://books.toscrape.com/
 
