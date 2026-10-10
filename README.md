@@ -1,18 +1,10 @@
 CodeAlpha Web Scraping Project
 
-
-
 Project Overview
-
-
 
 This project collects book data from the Books to Scrape website using Python.
 
-
-
 Technologies Used
-
-
 
 \- Python
 
@@ -23,10 +15,7 @@ Technologies Used
 \- Pandas
 
 
-
 Data Collected
-
-
 
 \- Book Title
 
@@ -43,7 +32,6 @@ Data Collected
 Project Files
 
 
-
 \- main.py - Python source code
 
 \- books.csv - Scraped dataset
@@ -51,21 +39,16 @@ Project Files
 \- README.md - Project documentation
 
 
-
 How to Run
-
 
 
 Install the libraries:
 
 
-
 "py -m pip install requests beautifulsoup4 pandas"
 
 
-
 Run the program:
-
 
 
 "py main.py"
